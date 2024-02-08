@@ -1,0 +1,81 @@
+{
+  "admin": [
+    {
+      "username": "ArnaudGAFFAN",
+      "email": "gafarnaudgmail.com",
+      "password": "ribery31mane",
+      "id": 1
+    }
+  ],
+  "jours_ferier": [],
+  "presence": [
+    {
+      "date": 1644482400000,
+      "heure_debut": "08:00",
+      "heure_sortie": "21:00",
+      "id_employe": 1
+    }
+  ],
+  "statu": [
+    {
+      "idEmploye": 1,
+      "date": "2024-02-10",
+      "statut": "Présent"
+    }
+  ],
+  "masse_horaire": [
+    {
+      "id": 1,
+      "masseHoraire": 1000
+    }
+  ],
+  "employe": [
+    {
+      "id": 1,
+      "nom": "DOSSA",
+      "prenom": "Foederis",
+      "email": "chenzen@gmail.com",
+      "password": "elBarto",
+      "heure_debut_entreprise": "08:00",
+      "heure_fin_entreprise": "20: 00",
+      "id_admin": 1
+    },
+    {
+      "id": "f943",
+      "nom": "GAFFAN",
+      "prenom": "Arnaud",
+      "email": "arnaudwalker333@gmail.com",
+      "password": "arnaud",
+      "heure_debut_entreprise": "08:00",
+      "heure_fin_entreprise": "17:00",
+      "id_admin": 1
+    },
+    {
+      "id": "349f",
+      "nom": "AHOUANTO",
+      "prenom": "Irené",
+      "email": "exemple@gmail.com",
+      "password": "dkskdjjd",
+      "heure_debut_entreprise": "07:30",
+      "heure_fin_entreprise": "15:30",
+      "id_admin": 1
+    },
+    {
+      "id": "7607",
+      "nom": "SOTODONOU",
+      "prenom": "Houlda",
+      "email": "houldasotodonou@gmail.com",
+      "password": "fjjfbjsj",
+      "heure_debut_entreprise": "10:00",
+      "heure_fin_entreprise": "17:30",
+      "id_admin": 1
+    }
+  ],
+  "heureTravaille": [
+    {
+      "idEmploye": 1,
+      "mois": "2024-02",
+      "heuresAccumulees": 160
+    }
+  ]
+}
